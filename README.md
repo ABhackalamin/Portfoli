@@ -1,7 +1,3 @@
-# alamin.github.io
-Personal portfolio website of Alamin, showcasing research interests, projects, publications, achievements, awards, and other relevant academic and professional information. Please visit the website to learn more about Alamin.
-
-
 # Alamin — Personal Portfolio Website
 
 A clean, modern, and responsive personal portfolio website for **Alamin**, an Embedded Systems and IoT researcher with 3+ years of experience in microcontroller-based system design, signal processing, and intelligent sensing applications. Built with HTML, CSS, and JavaScript.
